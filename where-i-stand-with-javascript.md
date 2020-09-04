@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: where I stand with Javascript
+title: Where I Stand with Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
   - Javascript
 ---
+
+## Where I Stand with JavaScript
 
 The extent of my knowledge of JavaScript before learning the language is that it’s very controversial among developers. A quick Google search of JavaScript will reveal many who praise it but also many who simply hate it. Thus, with that as my only understanding of the language, I was eager to learn and weigh the pros and cons myself.  
 
