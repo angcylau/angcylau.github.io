@@ -30,6 +30,12 @@
   "interests": [
     {
       "name": "software engineering",
+    },
+    {
+      "name": "network security",
+    },
+    {
+      "name": "machine learning",
     }
   ],
   "skills": [
