@@ -8,10 +8,9 @@ date: 2016-08-27
 labels:
   - Language
   - Teaching
-summary: As part of a study abroad program, I had the honor of teaching English to Chinese kindergarteners in Shanghai for a semester.
+summary: As part of a study abroad program, I taught English to Chinese kindergarteners in Shanghai for a semester.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/shanghai-teaching.jpg">
+<img src="images/shanghai-teaching.jpg">
 
 In Fall of 2016, I had the opportunity to study abroad in Shanghai through the Freeman China Scholarship program. I attended East China Normal University and my classes consisted of Chinese language, history, and culture. Part of the program required us to teach English to Chinese kindergarten students once a week, so my colleagues and I created lesson plans each week.
 It was my first time working with children and co-leading a class, and the experience was invaluable. It showed me the stark contrasts in American and Chinese educational systems, and how rewarding it is to teach. 
