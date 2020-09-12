@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Charmander_AG_anime1.png
 title: Pokemon Battle!
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-25
