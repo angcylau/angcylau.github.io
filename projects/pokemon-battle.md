@@ -11,10 +11,9 @@ summary: Two player Pokemon Battle game written in Java.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/PokeBattle.png">
+  <img class="ui image" src="../images/PokeBattle.2.png">
+  <img class="ui image" src="../images/PokeBattle.3.png">
 </div>
 
 Pokemon Battle is a simple two-player game, written in Java, for ICS 211. It utilizes object classes and interfaces. The types (water, fire, poison, etc.) of each species are stored in interfaces, which includes their type and power of attacks. Each individual Pokemon is constructed in a class that implements its corresponding type interface, and inherits an abstract parent class. 
