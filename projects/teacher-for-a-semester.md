@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/flag.jpg
 title: Teacher for A Semester
 # All dates must be YYYY-MM-DD format!
 date: 2016-08-27
