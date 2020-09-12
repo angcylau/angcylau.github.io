@@ -11,10 +11,10 @@ labels:
 summary: As part of a study abroad program, I had the honor of teaching English to Chinese kindergarteners in Shanghai for a semester.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/shanghai-teaching.jpg">
+
 In Fall of 2016, I had the opportunity to study abroad in Shanghai through the Freeman China Scholarship program. I attended East China Normal University and my classes consisted of Chinese language, history, and culture. Part of the program required us to teach English to Chinese kindergarten students once a week, so my colleagues and I created lesson plans each week.
 It was my first time working with children and co-leading a class, and the experience was invaluable. It showed me the stark contrasts in American and Chinese educational systems, and how rewarding it is to teach. 
-
-<img class="ui medium center floated rounded image" src="../images/shanghai-teaching.jpg">
 
 Most schools in China integrate English language into their curriculum as early as Kindergarten, so most of our students were already familiar with the English alphabet and basic phrases but couldn’t yet visually recognize all individual letters alone. For the first couple of weeks, we focused on writing, recognizing, and associating letters with words that begin with those letters. We moved on to learning names of body parts, animals, emotion words, verbs, foods, etc. by repeating them in Mandarin and then English. For each lesson, which was one hour each week, we focused on one of those subjects and planned activities and games to aid their learning in a more exciting way. 
 
