@@ -7,7 +7,7 @@ title: Paint to Reboot
 date: 2014-04-12
 labels:
   - 
-summary: 
+summary: A personal portrait project, 8x10 acrylic on canvas
 ---
 
 <img class="ui medium right floated rounded image" src="../images/portrait-acrylic-canvas.jpg">
