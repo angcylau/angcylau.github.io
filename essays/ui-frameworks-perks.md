@@ -23,6 +23,6 @@ This bothered me so I searched for ways to fix it, and that’s when I read abou
 I quickly fell in love with so many features Semantic UI had to offer. Containers and grids are the most convenient ways to organize elements, and grids became my favorite component of Semantic UI thus far. Using Semantic UI to create the same ‘browser history’ webpage with columns was so much easier and visually more appealing. I implemented a menu for the navigation bar and a grid container to create the three columns. 
 [PIC]
 
-<img class="ui medium right floated rounded image" src="../images/browserhistory-semantic-ui.png">
+<img src="../images/browserhistory-semantic-ui.png">
 
 I’m going to be honest, learning and understanding even the basics of Semantic UI was a pain and took a while for me to get the hang of, but I never thought I would be able to recreate the looks of actual professionally made websites in less than a week’s time. Semantic-ui.com is a great aid in understanding and learning the framework, and provides example codes for whatever it is you’re looking to do.
