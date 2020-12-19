@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/paintbrush.jpg
+image: images/landing-page.png
 title: Effective Study Groups!
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
