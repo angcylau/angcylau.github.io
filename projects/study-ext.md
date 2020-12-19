@@ -18,8 +18,11 @@ In a software engineering course of Fall 2020, I was able to experience what it 
 <img src="../images/landing-page.png">
 
 Students will have to login and set up a profile with a head shot. In their profile, they can list the courses they have already taken, courses they are currently taking, and specify which courses they are willing to provide help with, and which courses they are seeking help in. Students can create and join study sessions, and there will be a calendar showing all current and upcoming sessions, along with an option to create a quick help session for those who need quick assistance. Users will then be notified of these sessions and will have the option to join. 
+
 To give incentive to students to join study sessions, students will be given points to join study sessions as mentors and mentees. We also implemented a leaderboard, that shows the rankings of students.
 Another section of the site lists all the ICS courses and which members are mentors and mentees of a specific course. 
 
-This project gave me valuable insight and experience of what it’s like to work collaboratively in a professional setting. I hope to use what I’ve learned to help me be a better software engineer in the future.  
-A link to our github page can be found [here](https://study-ext.github.io/).
+My contribution to this project was creating the the profile page, the leaderboard, and the page where all classes are listed with the mentors and mentees or each class. This project gave me valuable insight and experience of what it’s like to work collaboratively in a professional setting. I hope to use what I’ve learned to help me be a better software engineer in the future.  
+
+A link to the project page can be found [here](https://study-ext.github.io/).
+A link to the Github page can be found [here](https://github.com/Study-ext/study-ext).
