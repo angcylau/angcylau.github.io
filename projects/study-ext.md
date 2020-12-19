@@ -29,4 +29,9 @@ Another section of the site lists all the ICS courses and which members are ment
 <img src="../images/listClassesPage.png">
 
 This project gave me valuable insight and experience of what it’s like to work collaboratively in a professional setting. I hope to use what I’ve learned to help me be a better software engineer in the future.  
-A link to our github page can be found [here](https://study-ext.github.io/).
+
+A link to the project page can be found [here](https://study-ext.github.io/).
+
+A link to the Github page can be found [here](https://github.com/Study-ext/study-ext).
+
+
